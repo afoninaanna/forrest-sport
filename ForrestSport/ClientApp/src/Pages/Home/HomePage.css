@@ -1,0 +1,142 @@
+nav {
+    border-bottom: 2px solid maroon;
+    padding-bottom: 5px;
+    display: flex;
+    gap: 160px;
+}
+nav img {
+    width: 250px;
+    height: 125px;
+}
+.nav-list {
+    margin-top: 70px;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+}
+.nav-list a {
+    text-decoration: none;
+    color: maroon;
+    margin: 0px 50px;
+    font-size: 18px;
+    white-space: nowrap;
+}
+.nav-list a:hover {
+    color: crimson;
+}
+header {
+    text-align: center;
+    margin-top: 40px;
+}
+header p {
+    font-size: 20px;
+    width: 900px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+header h1 span {
+    color: maroon;
+}
+.wrap-content {
+    margin-top: 20px;
+}
+.wrap-content p {
+    font-size: 18px;
+    width: 400px;
+    height: 100px;
+}
+.wrap-content img {
+    width: 400px;
+    height: 250px;
+}
+.content {
+    border-bottom: 2px solid maroon;
+    padding-bottom: 45px;
+}
+.wrapper-articles {
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: -25px;
+}
+.content p {
+    margin-top: -1px;
+    text-align: center;
+}
+.content h2 {
+    margin-top: 25px;
+    text-align: center;
+}
+.search {
+    width: 700px;
+    height: 38px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+.search-form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 60px;
+    margin-left: 25px;
+}
+.search-form button {
+    height: 42px;
+    width: 200px;
+    background-color: maroon;
+    color: white;
+    font-size: 14px;
+    outline: none;
+    border: none;
+}
+.submit-button {
+    height: 42px;
+    width: 200px;
+    background-color: maroon;
+    color: white;
+    font-size: 14px;
+    outline: none;
+    border: none;
+}
+.checkboxes {
+    margin-left: -200px;
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+.wrapper-input {
+    margin-top: -15px;
+    display: flex;
+}
+.wrapper-articles {
+    margin-top: 30px;
+}
+.wrapper-articles a {
+    text-decoration: none;
+    color: black;
+}
+.wrapper-articles a:hover {
+    text-decoration: none;
+    color: maroon;
+}
+.wrapper-articles button {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 100px;
+    border-radius: 80px;
+    border: 1px grey solid;
+    background-color: white;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.home-title span {
+    border: none;
+    background-color: #fff;
+}

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{AFB2CEE0-A34F-421F-AC67-174A79BB8183}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ForrestSport PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForrestSport/ClientApp/src/Pages/Article/Article.jsx">
+    <Files>
+      <File FileName="ForrestSport/Program.cs" Line="23" Column="1" />
+      <File FileName="ForrestSport/ClientApp/src/App.js" Line="1" Column="1" />
+      <File FileName="ForrestSport/ClientApp/src/components/ArticleCategory/ArticleCategory.jsx" Line="1" Column="1" />
+      <File FileName="ForrestSport/ClientApp/src/Pages/Article/Article.jsx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name=" ForrestSport" expanded="True">
+            <Node name="ForrestSport" expanded="True" selected="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True">
+                    <Node name="ArticleCategory" expanded="True" />
+                  </Node>
+                  <Node name="Pages" expanded="True">
+                    <Node name="Article" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
